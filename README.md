@@ -1,5 +1,6 @@
 # Collection of tools regarding mp3's
 
+### mp3-dl
 Use `mp3-dl [filename]` to download multiple songs from YouTube. 
 
 Format:  
@@ -9,4 +10,5 @@ https://youtube.com/....
 Song Name  
 Song Name  
 
-Use `cmpeg [options] [filename]` to edit metadata for a file or use `cmpeg --album` to edit a whole album.
+### cmpeg
+Don't use `cmpeg` right now. There are bugs that prevent it from working properly.
